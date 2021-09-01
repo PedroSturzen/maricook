@@ -1132,16 +1132,17 @@ form label {
 }
 #gtco-offcanvas a {
   color: rgba(255, 255, 255, 0.5);
+  font-size: 20px;
 }
 #gtco-offcanvas a:hover {
   color: rgba(255, 255, 255, 0.8);
 }
 #gtco-offcanvas ul {
-  padding: 0;
+  padding: 10px;
   margin: 0;
 }
 #gtco-offcanvas ul li {
-  padding: 0;
+  padding: 15px;
   margin: 0;
   list-style: none;
 }
