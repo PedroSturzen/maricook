@@ -603,6 +603,19 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-social-icons li a i {
   font-size: 20px;
 }
+.gtco-social-icons li a:hover {
+  color: #fff;
+}
+.gtco-quick-contact li a:hover {
+  color: #fff;
+}
+.copyright a:hover {
+  color: #fff;
+}
+.gtco-contact-info li a:hover{
+  border-bottom: 1px solid black;
+  color: black;
+}
 
 .gtco-contact-info {
   margin-bottom: 30px;
