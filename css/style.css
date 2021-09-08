@@ -937,6 +937,7 @@ form label {
   color: #000;
   position: relative;
 }
+
 @media screen and (max-width: 768px) {
   .gtco-heading h2 {
     font-size: 26px;
